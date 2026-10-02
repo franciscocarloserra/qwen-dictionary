@@ -1,0 +1,34 @@
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><g fill="#e8dfcc">
+  <!-- Background: rough wood grain texture -->
+  <path d="M 5 50 Q 15 60 25 50 T 40 45 T 55 50 T 70 45 T 80 50 T 95 45 T 100 50 Z" fill="#e8dfcc"/>
+  <path d="M 20 30 Q 30 20 40 30 T 50 25 T 60 30 T 70 25 T 80 30 T 90 25 T 100 30 Z" fill="#e8dfcc"/>
+  
+  <!-- Main wooden block (the dictionary) -->
+  <rect x="20" y="30" width="60" height="40" fill="#e8dfcc" stroke="#e8dfcc" stroke-width="2"/>
+  
+  
+  
+  <!-- Shadow block (shadow) -->
+  <rect x="20" y="30" width="60" height="40" fill="#e8dfcc" stroke="#e8dfcc" stroke-width="1"/>
+  
+  <!-- Hatching lines (texture) -->
+  <line x1="30" y1="50" x2="70" y2="50" stroke="#e8dfcc" stroke-width="1" stroke-dasharray="4,4"/>
+  <line x1="30" y1="50" x2="70" y2="50" stroke="#e8dfcc" stroke-width="1" stroke-dasharray="4,4"/>
+  <line x1="30" y1="50" x2="70" y2="50" stroke="#e8dfcc" stroke-width="1" stroke-dasharray="4,4"/>
+  
+  <!-- Side cover (left edge) -->
+  <rect x="5" y="35" width="50" height="35" fill="#e8dfcc" stroke="#e8dfcc" stroke-width="2"/>
+  
+  
+  <!-- Inner spine -->
+  <rect x="30" y="35" width="20" height="10" fill="#e8dfcc" stroke="#e8dfcc" stroke-width="1"/>
+  
+  
+  <!-- Right cover (right edge) -->
+  <rect x="90" y="35" width="50" height="35" fill="#e8dfcc" stroke="#e8dfcc" stroke-width="2"/>
+  
+  
+  <!-- Inner spine (right) -->
+  <rect x="70" y="35" width="20" height="10" fill="#e8dfcc" stroke="#e8dfcc" stroke-width="1"/>
+  
+</g></svg>

@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><g fill="#e8dfcc">
+  <defs>
+    <pattern id="woodcut-texture" x="0" y="0" width="100" height="100" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="100" height="100" fill="#e8dfcc" />
+      <line x1="0" y1="0" x2="100" y2="100" stroke="#e8dfcc" stroke-width="2" stroke-opacity="0.5" />
+      <line x1="100" y1="0" x2="0" y2="100" stroke="#e8dfcc" stroke-width="2" stroke-opacity="0.5" />
+    </pattern>
+    <linearGradient id="woodcut-texture-pattern" x1="0" y1="0" x2="100" y2="100">
+      <stop offset="0%" stop-color="#e8dfcc" />
+      <stop offset="50%" stop-color="#c9a45c" />
+      <stop offset="100%" stop-color="#e8dfcc" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Main Desk Body -->
+  <rect x="40" y="40" width="20" height="60" rx="5" fill="none" stroke="#e8dfcc" stroke-width="2" />
+  <rect x="30" y="30" width="40" height="40" rx="5" fill="none" stroke="#e8dfcc" stroke-width="2" />
+  
+  <!-- Desk Legs -->
+  <rect x="10" y="30" width="20" height="20" fill="none" stroke="#e8dfcc" stroke-width="2" />
+  <rect x="50" y="30" width="20" height="20" fill="none" stroke="#e8dfcc" stroke-width="2" />
+  
+  <!-- Desk Top Surface -->
+  <rect x="30" y="40" width="20" height="40" fill="none" stroke="#e8dfcc" stroke-width="2" />
+  
+  <!-- Desk Handle -->
+  <rect x="80" y="60" width="20" height="20" rx="5" fill="none" stroke="#e8dfcc" stroke-width="2" />
+  
+  <!-- Desk Feet -->
+  <rect x="10" y="80" width="20" height="20" fill="none" stroke="#e8dfcc" stroke-width="2" />
+  <rect x="50" y="80" width="20" height="20" fill="none" stroke="#e8dfcc" stroke-width="2" />
+  
+  <!-- Shadow 1 (Behind Desk) -->
+  <rect x="30" y="50" width="40" height="20" fill="none" stroke="#e8dfcc" stroke-width="2" opacity="0.8" />
+  
+  <!-- Shadow 2 (Behind Legs) -->
+  <rect x="10" y="40" width="20" height="40" fill="none" stroke="#e8dfcc" stroke-width="2" opacity="0.8" />
+  
+  <!-- Shadow 3 (Behind Handle) -->
+  <rect x="70" y="40" width="20" height="20" fill="none" stroke="#e8dfcc" stroke-width="2" opacity="0.8" />
+  
+  <!-- Shadow 4 (Behind Feet) -->
+  <rect x="10" y="70" width="20" height="20" fill="none" stroke="#e8dfcc" stroke-width="2" opacity="0.8" />
+  
+  <!-- Hatching Texture -->
+  <path d="M 40 40 L 40 50 L 50 50 L 50 40 Z" fill="#e8dfcc" />
+  <path d="M 40 40 L 40 50 L 50 50 L 50 40 Z" fill="#e8dfcc" />
+  <path d="M 40 40 L 40 50 L 50 50 L 50 40 Z" fill="#e8dfcc" />
+</g></svg>

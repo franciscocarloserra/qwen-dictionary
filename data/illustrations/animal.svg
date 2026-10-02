@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><g fill="#e8dfcc">
+  <defs>
+    <pattern id="hatch" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#e8dfcc" stroke-width="1" opacity="0.6"/>
+    </pattern>
+  </defs>
+  
+  <!-- Background -->
+  <rect x="0" y="0" width="100" height="100" fill="#16130f" />
+  
+  <!-- Main Form -->
+  <polygon points="40,30 60,20 30,40 70,30 40,60 20,50 30,70 40,80 60,70" 
+           fill="none" stroke="#e8dfcc" stroke-width="2" />
+  
+  <!-- Head -->
+  <ellipse cx="40" cy="60" rx="30" ry="15" fill="none" stroke="#e8dfcc" stroke-width="2" />
+  
+  <!-- Ears -->
+  <ellipse cx="30" cy="50" rx="15" ry="10" fill="none" stroke="#e8dfcc" stroke-width="2" />
+  <ellipse cx="70" cy="50" rx="15" ry="10" fill="none" stroke="#e8dfcc" stroke-width="2" />
+  
+  <!-- Nose -->
+  <circle cx="45" cy="65" r="5" fill="#e8dfcc" />
+  
+  <!-- Eyes -->
+  <circle cx="35" cy="68" r="2" fill="#e8dfcc" />
+  <circle cx="65" cy="68" r="2" fill="#e8dfcc" />
+  
+  <!-- Mouth -->
+  <path d="M 40,70 L 50,70 L 55,65 Z" fill="#e8dfcc" />
+  
+  <!-- Neck -->
+  <line x1="30" y1="50" x2="70" y2="50" stroke="#e8dfcc" stroke-width="2" />
+  
+  <!-- Headband -->
+  <path d="M 30,50 L 70,50 L 70,50 L 30,50" fill="none" stroke="#e8dfcc" stroke-width="2" opacity="0.3" />
+  
+  <!-- Shadow -->
+  <rect x="20" y="45" width="60" height="5" fill="#e8dfcc" />
+  
+  <!-- Texture Hatching -->
+  <path d="M 25,45 L 75,45 L 25,45" fill="none" stroke="#e8dfcc" stroke-width="1" opacity="0.4" />
+</g></svg>

@@ -1,0 +1,36 @@
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><g fill="#e8dfcc">
+  <!-- Background -->
+  <rect x="0" y="0" width="100" height="100" fill="#16130f" />
+
+  <!-- Main cell shape -->
+  <rect x="40" y="40" width="20" height="20" fill="#e8dfcc" stroke="none" />
+  <rect x="30" y="30" width="20" height="20" fill="#e8dfcc" stroke="none" />
+  <rect x="20" y="20" width="20" height="20" fill="#e8dfcc" stroke="none" />
+  <rect x="10" y="10" width="20" height="20" fill="#e8dfcc" stroke="none" />
+  <rect x="0" y="0" width="20" height="20" fill="#e8dfcc" stroke="none" />
+  <rect x="0" y="10" width="20" height="20" fill="#e8dfcc" stroke="none" />
+
+  <!-- Light shadow left -->
+  <path d="M 20 10 L 20 20 L 10 20 L 10 10 Z" fill="#e8dfcc" stroke="none" />
+  <path d="M 10 10 L 10 20 L 20 20 L 20 10 Z" fill="#e8dfcc" stroke="none" />
+
+  <!-- Light shadow right -->
+  <path d="M 80 10 L 80 20 L 90 20 L 90 10 Z" fill="#e8dfcc" stroke="none" />
+  <path d="M 90 10 L 90 20 L 80 20 L 80 10 Z" fill="#e8dfcc" stroke="none" />
+
+  <!-- Texture hatching (short parallel lines) -->
+  <g stroke="#e8dfcc" stroke-width="1" fill="none">
+    <line x1="45" y1="35" x2="45" y2="55" />
+    <line x1="55" y1="35" x2="55" y2="55" />
+    <line x1="45" y1="55" x2="45" y2="75" />
+    <line x1="55" y1="55" x2="55" y2="75" />
+    <line x1="45" y1="75" x2="45" y2="95" />
+    <line x1="55" y1="75" x2="55" y2="95" />
+    <line x1="45" y1="95" x2="45" y2="115" />
+    <line x1="55" y1="95" x2="55" y2="115" />
+  </g>
+
+  <!-- Inner shadow detail -->
+  <path d="M 25 15 L 25 25 L 15 25 L 15 15 Z" fill="#e8dfcc" stroke="none" />
+  <path d="M 35 15 L 35 25 L 25 25 L 25 15 Z" fill="#e8dfcc" stroke="none" />
+</g></svg>

@@ -1,0 +1,22 @@
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><g fill="#e8dfcc">
+  <!-- Background -->
+  <rect x="20" y="20" width="60" height="60" fill="none" stroke="#e8dfcc" stroke-width="2" />
+  
+  <!-- Main form (large, rounded rectangle) -->
+  <rect x="30" y="30" width="40" height="40" fill="none" stroke="#e8dfcc" stroke-width="2" />
+  
+  <!-- Shadow 1 (top-left) -->
+  <rect x="15" y="65" width="20" height="20" fill="none" stroke="#e8dfcc" stroke-width="1" />
+  
+  <!-- Shadow 2 (top-right) -->
+  <rect x="75" y="65" width="20" height="20" fill="none" stroke="#e8dfcc" stroke-width="1" />
+  
+  <!-- Shadow 3 (bottom-left) -->
+  <rect x="15" y="35" width="20" height="20" fill="none" stroke="#e8dfcc" stroke-width="1" />
+  
+  <!-- Shadow 4 (bottom-right) -->
+  <rect x="75" y="35" width="20" height="20" fill="none" stroke="#e8dfcc" stroke-width="1" />
+  
+  <!-- Texture (hatching) -->
+  <path d="M 25 30 M 75 30 M 25 75 M 75 75" fill="none" stroke="#e8dfcc" stroke-width="2" />
+</g></svg>

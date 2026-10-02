@@ -1,0 +1,58 @@
+<svg width="200" height="200" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><g fill="#e8dfcc">
+  <defs>
+    <pattern id="woodcut-texture" x="0" y="0" width="100" height="100" patternUnits="userSpaceOnUse">
+      <path d="M 10 10 L 90 10 L 90 90 L 10 90 Z" fill="none" stroke="#e8dfcc" stroke-width="1"/>
+    </pattern>
+  </defs>
+  
+  <!-- Main Form (Woodcut Style) -->
+  <rect x="20" y="20" width="60" height="60" rx="5" fill="none" stroke="#e8dfcc" stroke-width="1"/>
+  
+  <!-- Top Edge -->
+  <rect x="10" y="10" width="80" height="20" fill="none" stroke="#e8dfcc" stroke-width="1"/>
+  
+  <!-- Left Edge -->
+  <rect x="5" y="5" width="20" height="90" fill="none" stroke="#e8dfcc" stroke-width="1"/>
+  
+  <!-- Bottom Edge -->
+  <rect x="20" y="70" width="60" height="20" fill="none" stroke="#e8dfcc" stroke-width="1"/>
+  
+  <!-- Right Edge -->
+  <rect x="80" y="5" width="20" height="90" fill="none" stroke="#e8dfcc" stroke-width="1"/>
+  
+  <!-- Inner Shadow (Left) -->
+  <rect x="30" y="25" width="40" height="30" fill="none" stroke="#e8dfcc" stroke-width="1"/>
+  
+  <!-- Inner Shadow (Right) -->
+  <rect x="60" y="25" width="40" height="30" fill="none" stroke="#e8dfcc" stroke-width="1"/>
+  
+  <!-- Inner Shadow (Top) -->
+  <rect x="30" y="50" width="40" height="10" fill="none" stroke="#e8dfcc" stroke-width="1"/>
+  
+  <!-- Inner Shadow (Bottom) -->
+  <rect x="60" y="50" width="40" height="10" fill="none" stroke="#e8dfcc" stroke-width="1"/>
+  
+  <!-- Top Hatching (Left) -->
+  <path d="M 20 20 L 10 20 L 20 20 L 10 20" fill="none" stroke="#e8dfcc" stroke-width="0.5"/>
+  
+  <!-- Top Hatching (Right) -->
+  <path d="M 80 20 L 90 20 L 80 20 L 90 20" fill="none" stroke="#e8dfcc" stroke-width="0.5"/>
+  
+  <!-- Top Hatching (Bottom) -->
+  <path d="M 20 70 L 10 70 L 20 70 L 10 70" fill="none" stroke="#e8dfcc" stroke-width="0.5"/>
+  
+  <!-- Top Hatching (Right) -->
+  <path d="M 80 70 L 90 70 L 80 70 L 90 70" fill="none" stroke="#e8dfcc" stroke-width="0.5"/>
+  
+  <!-- Shadow Block 1 (Left) -->
+  <rect x="30" y="25" width="40" height="30" fill="#e8dfcc"/>
+  
+  <!-- Shadow Block 2 (Right) -->
+  <rect x="60" y="25" width="40" height="30" fill="#e8dfcc"/>
+  
+  <!-- Shadow Block 3 (Top) -->
+  <rect x="30" y="50" width="40" height="10" fill="#e8dfcc"/>
+  
+  <!-- Shadow Block 4 (Bottom) -->
+  <rect x="60" y="50" width="40" height="10" fill="#e8dfcc"/>
+</g></svg>

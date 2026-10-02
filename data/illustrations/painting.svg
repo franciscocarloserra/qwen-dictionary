@@ -1,0 +1,16 @@
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><g fill="#e8dfcc">
+  <!-- Background -->
+  <rect width="100" height="100" fill="none" />
+  
+  <!-- Main Form (Woodcut style, minimal) -->
+  <rect x="20" y="20" width="60" height="60" fill="none" stroke="#e8dfcc" stroke-width="2" />
+  
+  <!-- Shadow (block) -->
+  <rect x="50" y="50" width="40" height="40" fill="#e8dfcc" />
+  
+  <!-- Hatching (texture) -->
+  <rect x="10" y="10" width="80" height="80" fill="none" stroke="#e8dfcc" stroke-width="1" stroke-dasharray="10 10" />
+  
+  <!-- Label area (part of form) -->
+  <rect x="30" y="40" width="40" height="20" fill="none" stroke="#e8dfcc" stroke-width="2" />
+</g></svg>

@@ -1,0 +1,35 @@
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><g fill="#e8dfcc">
+  <!-- Background -->
+  <rect width="100" height="100" fill="#16130f"/>
+
+  <!-- Main body (envelope shape) -->
+  <rect x="20" y="20" width="60" height="60" fill="none" stroke="#e8dfcc" stroke-width="2"/>
+
+  <!-- Shadow block -->
+  <rect x="20" y="40" width="20" height="20" fill="#e8dfcc"/>
+
+  <!-- Shadow block -->
+  <rect x="60" y="40" width="20" height="20" fill="#e8dfcc"/>
+
+  <!-- Shadow block -->
+  <rect x="60" y="60" width="20" height="20" fill="#e8dfcc"/>
+
+  <!-- Texture hatching (bottom) -->
+  <path d="M 20 20 L 20 40 L 60 40 L 60 60" fill="none" stroke="#e8dfcc" stroke-width="1" opacity="0.6"/>
+
+  <!-- Texture hatching (top) -->
+  <path d="M 20 20 L 60 20 L 60 40" fill="none" stroke="#e8dfcc" stroke-width="1" opacity="0.6"/>
+
+  <!-- Vertical lines (frame) -->
+  <line x1="20" y1="20" x2="20" y2="10" stroke="#e8dfcc" stroke-width="2"/>
+  <line x1="20" y1="80" x2="20" y2="90" stroke="#e8dfcc" stroke-width="2"/>
+  <line x1="60" y1="20" x2="60" y2="10" stroke="#e8dfcc" stroke-width="2"/>
+  <line x1="60" y1="80" x2="60" y2="90" stroke="#e8dfcc" stroke-width="2"/>
+
+  <!-- Inner decorative lines (envelope lines) -->
+  <line x1="20" y1="20" x2="20" y2="60" stroke="#e8dfcc" stroke-width="1"/>
+  <line x1="60" y1="20" x2="60" y2="60" stroke="#e8dfcc" stroke-width="1"/>
+
+  <!-- Detail: handle area -->
+  <rect x="10" y="40" width="20" height="20" fill="#e8dfcc" stroke="none"/>
+</g></svg>

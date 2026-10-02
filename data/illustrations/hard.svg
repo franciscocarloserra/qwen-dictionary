@@ -1,0 +1,35 @@
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><g fill="#e8dfcc">
+  <!-- Background -->
+  <rect x="5" y="5" width="90" height="90" fill="none" stroke="#e8dfcc" stroke-width="2" />
+  
+  <!-- Main form (envelope-like shape) -->
+  <!-- Top edge -->
+  <line x1="20" y1="5" x2="70" y2="5" stroke="#e8dfcc" stroke-width="2" />
+  <!-- Bottom edge -->
+  <line x1="20" y1="95" x2="70" y2="95" stroke="#e8dfcc" stroke-width="2" />
+  <!-- Left side -->
+  <line x1="5" y1="5" x2="5" y2="95" stroke="#e8dfcc" stroke-width="2" />
+  <!-- Right side -->
+  <line x1="70" y1="5" x2="70" y2="95" stroke="#e8dfcc" stroke-width="2" />
+  
+  <!-- Inner shadow (solid black rectangle) -->
+  <rect x="15" y="35" width="70" height="40" fill="#e8dfcc" />
+  
+  <!-- Top shadow (parallel hatching) -->
+  <polygon points="20,5 20,95 70,95 70,5" fill="none" stroke="#e8dfcc" stroke-width="1" opacity="0.6" />
+  
+  <!-- Bottom shadow (parallel hatching) -->
+  <polygon points="20,95 20,5 70,5 70,95" fill="none" stroke="#e8dfcc" stroke-width="1" opacity="0.6" />
+  
+  <!-- Side shadows (parallel hatching) -->
+  <polygon points="5,5 5,95 70,95 70,5" fill="none" stroke="#e8dfcc" stroke-width="1" opacity="0.6" />
+  
+  <!-- Side shadows (parallel hatching) -->
+  <polygon points="5,5 5,95 70,95 70,5" fill="none" stroke="#e8dfcc" stroke-width="1" opacity="0.6" />
+  
+  <!-- Side shadows (parallel hatching) -->
+  <polygon points="5,5 5,95 70,95 70,5" fill="none" stroke="#e8dfcc" stroke-width="1" opacity="0.6" />
+  
+  <!-- Side shadows (parallel hatching) -->
+  <polygon points="5,5 5,95 70,95 70,5" fill="none" stroke="#e8dfcc" stroke-width="1" opacity="0.6" />
+</g></svg>

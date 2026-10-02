@@ -1,0 +1,20 @@
+<svg width="200" height="200" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><g fill="#e8dfcc">
+  <!-- Background -->
+  <rect x="10" y="10" width="80" height="80" fill="none" stroke="#e8dfcc" stroke-width="2" />
+  
+  <!-- Main form (woodcut style) -->
+  <path d="M 10 60 L 80 60 L 80 40 L 10 40 Z" fill="none" stroke="#e8dfcc" stroke-width="1.5" />
+  
+  <!-- Shadow (solid block) -->
+  <rect x="40" y="30" width="20" height="20" fill="#e8dfcc" />
+  
+  <!-- Shadow (solid block) -->
+  <rect x="10" y="20" width="20" height="20" fill="#e8dfcc" />
+  
+  <!-- Shadow (solid block) -->
+  <rect x="80" y="15" width="20" height="20" fill="#e8dfcc" />
+  
+  <!-- Hatching texture -->
+  <polygon points="10,40 80,40 10,60" fill="none" stroke="#e8dfcc" stroke-width="2" opacity="0.6" />
+  <polygon points="10,40 80,40 10,60" fill="none" stroke="#e8dfcc" stroke-width="2" opacity="0.6" />
+</g></svg>

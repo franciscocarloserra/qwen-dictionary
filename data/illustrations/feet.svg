@@ -1,0 +1,19 @@
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><g fill="#e8dfcc">
+  <!-- Background -->
+  <rect x="0" y="0" width="100" height="100" fill="#e8dfcc" />
+  
+  <!-- Main form (feet) -->
+  <!-- Left foot -->
+  <path d="M 20 60 L 30 60 L 30 80 L 20 80 Z" fill="none" stroke="#e8dfcc" stroke-width="3" />
+  <!-- Right foot -->
+  <path d="M 80 60 L 90 60 L 90 80 L 80 80 Z" fill="none" stroke="#e8dfcc" stroke-width="3" />
+  
+  <!-- Shadow (left foot) -->
+  <path d="M 20 80 L 40 80 L 40 100 Z" fill="#e8dfcc" />
+  
+  <!-- Shadow (right foot) -->
+  <path d="M 80 80 L 60 80 L 60 100 Z" fill="#e8dfcc" />
+  
+  <!-- Hatching texture -->
+  <polyline points="0,90 10,90 20,90 30,90 40,90 50,90 60,90 70,90 80,90 90,90 100,90" fill="none" stroke="#e8dfcc" stroke-width="1" opacity="0.5" />
+</g></svg>

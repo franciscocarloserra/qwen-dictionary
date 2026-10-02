@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"><g fill="#e8dfcc">
+  <defs>
+    <style>
+      .woodcut { stroke: #e8dfcc; stroke-width: 2; fill: none; }
+      .shadow { stroke: #e8dfcc; stroke-width: 1; fill: none; }
+      .hatch { stroke: #e8dfcc; stroke-width: 1; fill: none; }
+    </style>
+  </defs>
+  
+  <!-- Background: Light wood grain texture -->
+  <path class="woodcut" d="M 0 100 L 100 100 L 100 0 L 0 0 Z" fill="#16130f"/>
+  
+  <!-- Main Face Shape -->
+  <path class="woodcut" d="M 100 50 L 50 20 L 10 50 L 0 50 Z" fill="#e8dfcc"/>
+  
+  <!-- Ear -->
+  <path class="woodcut" d="M 30 70 L 20 65 L 15 75 L 25 75 Z" fill="#e8dfcc"/>
+  
+  <!-- Eye -->
+  <path class="woodcut" d="M 45 65 Q 55 75 65 65" stroke="#e8dfcc" stroke-width="2" fill="none"/>
+  <circle class="woodcut" cx="55" cy="65" r="5" fill="#e8dfcc"/>
+  
+  <!-- Nose -->
+  <path class="woodcut" d="M 60 80 L 55 75 L 65 75 Z" fill="#e8dfcc"/>
+  
+  <!-- Mouth -->
+  <path class="woodcut" d="M 65 80 Q 75 85 80 80" stroke="#e8dfcc" stroke-width="2" fill="none"/>
+  <path class="woodcut" d="M 65 80 L 75 85 L 80 80" fill="#e8dfcc"/>
+  
+  <!-- Chin -->
+  <path class="woodcut" d="M 70 90 L 60 95 L 50 90 Z" fill="#e8dfcc"/>
+  
+  <!-- Eyebrow -->
+  <path class="woodcut" d="M 40 75 L 50 70 L 45 80 Z" fill="#e8dfcc"/>
+  
+  <!-- Lip -->
+  <path class="woodcut" d="M 55 75 L 60 80 L 60 75" fill="#e8dfcc"/>
+  
+  <!-- Shadow (Left) -->
+  <path class="shadow" d="M 20 80 Q 10 70 15 65" stroke="#e8dfcc" stroke-width="1" fill="none"/>
+  
+  <!-- Shadow (Right) -->
+  <path class="shadow" d="M 80 80 Q 90 70 95 65" stroke="#e8dfcc" stroke-width="1" fill="none"/>
+  
+  <!-- Hatching (Left) -->
+  <path class="hatch" d="M 15 65 Q 20 60 25 55" stroke="#e8dfcc" stroke-width="1" fill="none"/>
+  
+  <!-- Hatching (Right) -->
+  <path class="hatch" d="M 85 65 Q 90 60 95 55" stroke="#e8dfcc" stroke-width="1" fill="none"/>
+  
+  <!-- Hatching (Left) -->
+  <path class="hatch" d="M 5 65 Q 10 60 15 55" stroke="#e8dfcc" stroke-width="1" fill="none"/>
+  
+  <!-- Hatching (Right) -->
+  <path class="hatch" d="M 80 65 Q 85 60 90 55" stroke="#e8dfcc" stroke-width="1" fill="none"/>
+</g></svg>

@@ -1,0 +1,61 @@
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><g fill="#e8dfcc">
+  <!-- Background -->
+  <rect x="10" y="10" width="80" height="80" fill="#16130f" stroke="#e8dfcc" stroke-width="1"/>
+  
+  <!-- Main Boat Body -->
+  <rect x="20" y="20" width="60" height="40" fill="#16130f" stroke="#e8dfcc" stroke-width="1"/>
+  
+  <!-- Forehead -->
+  <path d="M 35 10 L 45 15 L 35 20" fill="#e8dfcc" stroke="#e8dfcc" stroke-width="1"/>
+  
+  <!-- Nose -->
+  <rect x="25" y="35" width="10" height="25" fill="#e8dfcc" stroke="#e8dfcc" stroke-width="1"/>
+  
+  <!-- Boat Hull -->
+  <rect x="30" y="40" width="40" height="20" fill="#16130f" stroke="#e8dfcc" stroke-width="1"/>
+  
+  <!-- Mainsail -->
+  <path d="M 30 60 L 50 70 L 50 50 L 30 60" fill="#16130f" stroke="#e8dfcc" stroke-width="1"/>
+  
+  <!-- Sail -->
+  <path d="M 30 70 L 50 80 L 50 60 L 30 70" fill="#16130f" stroke="#e8dfcc" stroke-width="1"/>
+  
+  <!-- Rudder -->
+  <path d="M 30 70 L 45 80 L 40 70" fill="#e8dfcc" stroke="#e8dfcc" stroke-width="1"/>
+  
+  <!-- Stern -->
+  <rect x="35" y="65" width="10" height="20" fill="#e8dfcc" stroke="#e8dfcc" stroke-width="1"/>
+  
+  <!-- Deck -->
+  <rect x="30" y="45" width="80" height="5" fill="#16130f" stroke="#e8dfcc" stroke-width="1"/>
+  
+  <!-- Mainsail Sail -->
+  <path d="M 30 45 L 50 55 L 50 35 L 30 45" fill="#16130f" stroke="#e8dfcc" stroke-width="1"/>
+  
+  <!-- Sail Sail -->
+  <path d="M 30 45 L 50 55 L 50 35 L 30 45" fill="#16130f" stroke="#e8dfcc" stroke-width="1"/>
+  
+  <!-- Shadow -->
+  <rect x="20" y="60" width="60" height="15" fill="#16130f" stroke="#e8dfcc" stroke-width="1"/>
+  
+  <!-- Shadow -->
+  <rect x="60" y="60" width="60" height="15" fill="#16130f" stroke="#e8dfcc" stroke-width="1"/>
+  
+  <!-- Shadow -->
+  <rect x="20" y="80" width="60" height="15" fill="#16130f" stroke="#e8dfcc" stroke-width="1"/>
+  
+  <!-- Shadow -->
+  <rect x="60" y="80" width="60" height="15" fill="#16130f" stroke="#e8dfcc" stroke-width="1"/>
+  
+  <!-- Shadow -->
+  <rect x="20" y="100" width="60" height="15" fill="#16130f" stroke="#e8dfcc" stroke-width="1"/>
+  
+  <!-- Shadow -->
+  <rect x="60" y="100" width="60" height="15" fill="#16130f" stroke="#e8dfcc" stroke-width="1"/>
+  
+  <!-- Shadow -->
+  <rect x="20" y="120" width="60" height="15" fill="#16130f" stroke="#e8dfcc" stroke-width="1"/>
+  
+  <!-- Shadow -->
+  <rect x="60" y="120" width="60" height="15" fill="#16130f" stroke="#e8dfcc" stroke-width="1"/>
+</g></svg>

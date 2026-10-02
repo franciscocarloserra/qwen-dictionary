@@ -1,0 +1,43 @@
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><g fill="#e8dfcc">
+  <!-- Background -->
+  <rect x="0" y="0" width="100" height="100" fill="none" stroke="none"/>
+
+  <!-- Main form -->
+  <!-- Neck -->
+  <rect x="30" y="50" width="40" height="30" fill="none" stroke="#e8dfcc" stroke-width="2"/>
+  <!-- Body -->
+  <rect x="50" y="50" width="40" height="50" fill="none" stroke="#e8dfcc" stroke-width="2"/>
+  <!-- Head -->
+  <circle cx="70" cy="50" r="15" fill="none" stroke="#e8dfcc" stroke-width="2"/>
+  <!-- Ears -->
+  <circle cx="30" cy="40" r="10" fill="none" stroke="#e8dfcc" stroke-width="2"/>
+  <circle cx="70" cy="40" r="10" fill="none" stroke="#e8dfcc" stroke-width="2"/>
+  <!-- Eye -->
+  <circle cx="65" cy="50" r="4" fill="none" stroke="#e8dfcc" stroke-width="2"/>
+  <!-- Beak -->
+  <path d="M 55 65 Q 70 70 80 65" fill="none" stroke="#e8dfcc" stroke-width="2"/>
+  <!-- Beak tip -->
+  <circle cx="75" cy="65" r="2" fill="#e8dfcc"/>
+  <!-- Tongue -->
+  <path d="M 60 75 L 80 75" fill="none" stroke="#e8dfcc" stroke-width="2"/>
+  <!-- Leg -->
+  <rect x="25" y="80" width="40" height="20" fill="none" stroke="#e8dfcc" stroke-width="2"/>
+  <!-- Tail -->
+  <rect x="25" y="100" width="50" height="20" fill="none" stroke="#e8dfcc" stroke-width="2"/>
+  <!-- Feather -->
+  <rect x="55" y="70" width="10" height="5" fill="#e8dfcc"/>
+  <!-- Feather -->
+  <rect x="55" y="80" width="10" height="5" fill="#e8dfcc"/>
+  <!-- Feather -->
+  <rect x="55" y="90" width="10" height="5" fill="#e8dfcc"/>
+  <!-- Feather -->
+  <rect x="55" y="100" width="10" height="5" fill="#e8dfcc"/>
+  <!-- Feather -->
+  <rect x="55" y="110" width="10" height="5" fill="#e8dfcc"/>
+  <!-- Feather -->
+  <rect x="55" y="120" width="10" height="5" fill="#e8dfcc"/>
+  <!-- Feather -->
+  <rect x="55" y="130" width="10" height="5" fill="#e8dfcc"/>
+  <!-- Feather -->
+  <rect x="55" y="140" width="10" height="5" fill="#e8dfcc"/>
+</g></svg>

@@ -1,0 +1,26 @@
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><g fill="#e8dfcc">
+  <!-- Main body of the pants -->
+  <rect x="20" y="20" width="60" height="60" fill="none" stroke="#e8dfcc" stroke-width="2" />
+  
+  <!-- Legs -->
+  <line x1="20" y1="60" x2="60" y2="60" stroke="#e8dfcc" stroke-width="2" />
+  <line x1="20" y1="40" x2="60" y2="40" stroke="#e8dfcc" stroke-width="2" />
+  
+  <!-- Trousers -->
+  <rect x="20" y="60" width="60" height="40" fill="none" stroke="#e8dfcc" stroke-width="2" />
+  <rect x="20" y="40" width="60" height="20" fill="none" stroke="#e8dfcc" stroke-width="2" />
+  
+  <!-- Shoulder area (optional detail) -->
+  <rect x="10" y="30" width="40" height="20" fill="none" stroke="#e8dfcc" stroke-width="2" />
+  
+  <!-- Shadow on left leg -->
+  <rect x="40" y="60" width="10" height="40" fill="none" stroke="#e8dfcc" stroke-width="2" />
+  
+  <!-- Shadow on right leg -->
+  <rect x="60" y="60" width="10" height="40" fill="none" stroke="#e8dfcc" stroke-width="2" />
+  
+  <!-- Hatching texture -->
+  <pattern id="hatch" x="0" y="0" width="40" height="40" patternUnits="userSpaceOnUse" patternTransform="rotate(10)" stroke="#e8dfcc" stroke-width="2" opacity="0.8" />
+  <line x1="0" y1="0" x2="40" y2="40" stroke="#e8dfcc" stroke-width="2" />
+  <line x1="0" y1="0" x2="40" y2="40" stroke="#e8dfcc" stroke-width="2" />
+</g></svg>

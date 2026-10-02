@@ -1,0 +1,40 @@
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><g fill="#e8dfcc">
+  <!-- Background for the woodcut texture -->
+  <rect width="100" height="100" fill="#16130f"/>
+  
+  <!-- Main body of the dictionary seat -->
+  <rect x="30" y="40" width="40" height="60" fill="#e8dfcc"/>
+  
+  <!-- Top edge of the seat -->
+  <rect x="30" y="40" width="40" height="20" fill="#e8dfcc"/>
+  
+  <!-- Left side of the seat -->
+  <rect x="5" y="40" width="30" height="20" fill="#e8dfcc"/>
+  
+  <!-- Right side of the seat -->
+  <rect x="70" y="40" width="30" height="20" fill="#e8dfcc"/>
+  
+  <!-- Bottom edge of the seat -->
+  <rect x="30" y="70" width="40" height="20" fill="#e8dfcc"/>
+  
+  <!-- Left leg -->
+  <rect x="5" y="70" width="30" height="20" fill="#e8dfcc"/>
+  
+  <!-- Right leg -->
+  <rect x="70" y="70" width="30" height="20" fill="#e8dfcc"/>
+  
+  <!-- Shadow on left side -->
+  <rect x="10" y="65" width="30" height="10" fill="#e8dfcc"/>
+  
+  <!-- Shadow on right side -->
+  <rect x="60" y="65" width="30" height="10" fill="#e8dfcc"/>
+  
+  <!-- Shadow on bottom edge -->
+  <rect x="30" y="75" width="40" height="10" fill="#e8dfcc"/>
+  
+  <!-- Hatching lines (top) -->
+  <polyline points="40 30 40 50 30 50 30 70 30 70" stroke="#e8dfcc" stroke-width="2" fill="none"/>
+  
+  <!-- Hatching lines (bottom) -->
+  <polyline points="40 70 40 90 30 90 30 70 30 70" stroke="#e8dfcc" stroke-width="2" fill="none"/>
+</g></svg>

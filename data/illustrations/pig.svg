@@ -1,0 +1,61 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><g fill="#e8dfcc">
+  <!-- Background -->
+  <rect x="5" y="5" width="90" height="90" fill="none" stroke="#e8dfcc" stroke-width="2"/>
+
+  <!-- Main body (rect) -->
+  <rect x="20" y="20" width="60" height="60" fill="none" stroke="#e8dfcc" stroke-width="2"/>
+
+  <!-- Head -->
+  <rect x="30" y="10" width="30" height="30" fill="none" stroke="#e8dfcc" stroke-width="2"/>
+  <rect x="35" y="10" width="15" height="15" fill="#e8dfcc"/>
+  <rect x="40" y="10" width="15" height="15" fill="#e8dfcc"/>
+
+  <!-- Ears -->
+  <rect x="25" y="15" width="10" height="10" fill="none" stroke="#e8dfcc" stroke-width="2"/>
+  <rect x="25" y="15" width="10" height="10" fill="#e8dfcc"/>
+  <rect x="35" y="15" width="10" height="10" fill="#e8dfcc"/>
+  <rect x="35" y="15" width="10" height="10" fill="#e8dfcc"/>
+
+  <!-- Nose -->
+  <rect x="40" y="12" width="10" height="10" fill="none" stroke="#e8dfcc" stroke-width="2"/>
+  <rect x="45" y="12" width="5" height="5" fill="#e8dfcc"/>
+
+  <!-- Mouth -->
+  <rect x="42" y="22" width="10" height="10" fill="none" stroke="#e8dfcc" stroke-width="2"/>
+  <rect x="40" y="22" width="10" height="10" fill="#e8dfcc"/>
+
+  <!-- Eyes -->
+  <circle cx="48" cy="26" r="2" fill="#e8dfcc"/>
+  <circle cx="52" cy="26" r="2" fill="#e8dfcc"/>
+
+  <!-- Snout -->
+  <rect x="38" y="18" width="12" height="12" fill="none" stroke="#e8dfcc" stroke-width="2"/>
+  <rect x="38" y="18" width="6" height="6" fill="#e8dfcc"/>
+  <rect x="38" y="18" width="6" height="6" fill="#e8dfcc"/>
+
+  <!-- Top of head (outline) -->
+  <rect x="25" y="10" width="30" height="30" fill="none" stroke="#e8dfcc" stroke-width="2"/>
+  <rect x="25" y="10" width="30" height="30" fill="none" stroke="#e8dfcc" stroke-width="2"/>
+
+  <!-- Neck -->
+  <rect x="20" y="30" width="60" height="20" fill="none" stroke="#e8dfcc" stroke-width="2"/>
+
+  <!-- Tail -->
+  <rect x="10" y="55" width="50" height="15" fill="none" stroke="#e8dfcc" stroke-width="2"/>
+  <rect x="10" y="55" width="50" height="15" fill="none" stroke="#e8dfcc" stroke-width="2"/>
+  <rect x="10" y="55" width="50" height="15" fill="none" stroke="#e8dfcc" stroke-width="2"/>
+
+  <!-- Tail tip -->
+  <rect x="30" y="60" width="10" height="10" fill="none" stroke="#e8dfcc" stroke-width="2"/>
+  <rect x="30" y="60" width="10" height="10" fill="#e8dfcc"/>
+
+  <!-- Shadow (block) -->
+  <rect x="10" y="30" width="30" height="30" fill="#e8dfcc"/>
+  <rect x="10" y="30" width="30" height="30" fill="#e8dfcc"/>
+
+  <!-- Hatching texture (short parallel lines) -->
+  <path d="M 5 5 L 5 50 L 95 50 L 95 5" stroke="#e8dfcc" stroke-width="2" fill="none"/>
+  <path d="M 5 5 L 5 50 L 95 50 L 95 5" stroke="#e8dfcc" stroke-width="2" fill="none"/>
+  <path d="M 5 5 L 5 50 L 95 50 L 95 5" stroke="#e8dfcc" stroke-width="2" fill="none"/>
+  <path d="M 5 5 L 5 50 L 95 50 L 95 5" stroke="#e8dfcc" stroke-width="2" fill="none"/>
+</g></svg>

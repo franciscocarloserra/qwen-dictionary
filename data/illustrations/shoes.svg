@@ -1,0 +1,29 @@
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><g fill="#e8dfcc">
+  <!-- Background for texture -->
+  <rect x="20" y="20" width="60" height="60" fill="none" stroke="#e8dfcc" stroke-width="2"/>
+  
+  <!-- Main shoe shape -->
+  <path d="M 50 50 L 30 25 L 80 25 L 90 50 L 70 70 L 50 50 Z" fill="none" stroke="#e8dfcc" stroke-width="2" opacity="0.3"/>
+  
+  <!-- Shadow -->
+  <rect x="55" y="35" width="20" height="20" fill="#e8dfcc"/>
+  <rect x="60" y="30" width="20" height="20" fill="#e8dfcc"/>
+  
+  <!-- Texture hatching -->
+  <path d="M 50 50 L 50 55 L 60 55 L 60 50 L 50 55 Z" fill="none" stroke="#e8dfcc" stroke-width="1"/>
+  <path d="M 50 50 L 50 55 L 60 55 L 60 50 Z" fill="none" stroke="#e8dfcc" stroke-width="1"/>
+  
+  <!-- Sole detail -->
+  <path d="M 40 20 L 60 20 L 60 30 L 40 30 Z" fill="#e8dfcc" opacity="0.5"/>
+  
+  <!-- Laces -->
+  <path d="M 35 50 L 35 55 L 45 55 L 45 50 L 35 50 Z" fill="none" stroke="#e8dfcc" stroke-width="2"/>
+  <path d="M 45 50 L 45 55 L 35 55 L 35 50 Z" fill="none" stroke="#e8dfcc" stroke-width="2"/>
+  
+  <!-- Insole detail -->
+  <path d="M 55 20 L 55 25 L 75 25 L 75 20 Z" fill="#e8dfcc" opacity="0.5"/>
+  
+  <!-- Laces detail (lower) -->
+  <path d="M 45 50 L 45 55 L 55 55 L 55 50 Z" fill="none" stroke="#e8dfcc" stroke-width="2"/>
+  <path d="M 55 50 L 55 55 L 45 55 L 45 50 Z" fill="none" stroke="#e8dfcc" stroke-width="2"/>
+</g></svg>

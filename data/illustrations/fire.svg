@@ -1,0 +1,41 @@
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><g fill="#e8dfcc">
+  <!-- Background -->
+  <rect x="0" y="0" width="100" height="100" fill="#e8dfcc" />
+  
+  <!-- Shadow block 1 (left) -->
+  <rect x="0" y="0" width="30" height="40" fill="#e8dfcc" />
+  
+  <!-- Shadow block 2 (right) -->
+  <rect x="60" y="0" width="30" height="40" fill="#e8dfcc" />
+  
+  <!-- Shadow block 3 (bottom) -->
+  <rect x="0" y="60" width="100" height="30" fill="#e8dfcc" />
+  
+  <!-- Shadow block 4 (top) -->
+  <rect x="0" y="20" width="100" height="30" fill="#e8dfcc" />
+  
+  <!-- Main Fire Shape -->
+  <!-- Top section -->
+  <ellipse cx="50" cy="50" rx="35" ry="25" fill="#e8dfcc" />
+  <ellipse cx="50" cy="50" rx="35" ry="25" fill="#e8dfcc" />
+  
+  <!-- Middle section -->
+  <ellipse cx="50" cy="50" rx="35" ry="25" fill="#e8dfcc" />
+  <ellipse cx="50" cy="50" rx="35" ry="25" fill="#e8dfcc" />
+  
+  <!-- Bottom section -->
+  <ellipse cx="50" cy="50" rx="35" ry="25" fill="#e8dfcc" />
+  <ellipse cx="50" cy="50" rx="35" ry="25" fill="#e8dfcc" />
+  
+  <!-- Right side details -->
+  <ellipse cx="80" cy="50" rx="20" ry="20" fill="#e8dfcc" />
+  <ellipse cx="80" cy="50" rx="20" ry="20" fill="#e8dfcc" />
+  
+  <!-- Left side details -->
+  <ellipse cx="20" cy="50" rx="20" ry="20" fill="#e8dfcc" />
+  <ellipse cx="20" cy="50" rx="20" ry="20" fill="#e8dfcc" />
+  
+  <!-- Hatching lines -->
+  <polygon points="0,50 20,50 50,50 70,50 90,50 110,50 130,50 150,50 170,50 190,50 210,50 230,50 250,50 270,50 290,50 310,50 330,50 350,50 370,50" fill="#e8dfcc" opacity="0.2" />
+  <polygon points="0,50 20,50 50,50 70,50 90,50 110,50 130,50 150,50 170,50 190,50 210,50 230,50 250,50 270,50 290,50 310,50 330,50 350,50 370,50" fill="#e8dfcc" opacity="0.2" />
+</g></svg>

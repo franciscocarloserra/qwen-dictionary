@@ -1,0 +1,33 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><g fill="#e8dfcc">
+  <!-- Background texture -->
+  <defs>
+    <pattern id="hatch" width="20" height="20" patternUnits="userSpaceOnUse" x="0" y="0">
+      <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#e8dfcc" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="100" height="100" fill="#e8dfcc" />
+
+  <!-- Main body shape -->
+  <polygon id="main-body" points="50,10 30,40 50,80 70,40 90,10 50,30" fill="none" stroke="#e8dfcc" stroke-width="2" />
+
+  <!-- Left side detail -->
+  <rect x="5" y="20" width="10" height="20" fill="none" stroke="#e8dfcc" stroke-width="2" />
+
+  <!-- Right side detail -->
+  <rect x="80" y="20" width="10" height="20" fill="none" stroke="#e8dfcc" stroke-width="2" />
+
+  <!-- Shadow left -->
+  <polygon id="shadow-left" points="30,40 40,50 30,60" fill="none" stroke="#e8dfcc" stroke-width="1.5" />
+
+  <!-- Shadow right -->
+  <polygon id="shadow-right" points="70,40 80,50 70,60" fill="none" stroke="#e8dfcc" stroke-width="1.5" />
+
+  <!-- Texture lines -->
+  <line x1="45" y1="25" x2="55" y2="25" stroke="#e8dfcc" stroke-width="1" />
+  <line x1="45" y1="35" x2="55" y2="35" stroke="#e8dfcc" stroke-width="1" />
+  <line x1="30" y1="50" x2="40" y2="50" stroke="#e8dfcc" stroke-width="1" />
+  <line x1="50" y1="50" x2="60" y2="50" stroke="#e8dfcc" stroke-width="1" />
+  <line x1="50" y1="30" x2="60" y2="30" stroke="#e8dfcc" stroke-width="1" />
+  <line x1="50" y1="70" x2="60" y2="70" stroke="#e8dfcc" stroke-width="1" />
+  <line x1="50" y1="40" x2="60" y2="40" stroke="#e8dfcc" stroke-width="1" />
+</g></svg>

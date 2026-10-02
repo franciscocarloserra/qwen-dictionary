@@ -1,0 +1,25 @@
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><g fill="#e8dfcc">
+  <!-- Background -->
+  <rect width="100" height="100" fill="#16130f"/>
+
+  <!-- Main chair form -->
+  <!-- Backrest -->
+  <polygon points="50,10 35,55 50,90 65,55" fill="none" stroke="#e8dfcc" stroke-width="2"/>
+  <!-- Seat -->
+  <polygon points="50,10 65,55 50,90 45,60" fill="none" stroke="#e8dfcc" stroke-width="2"/>
+  <!-- Legs -->
+  <line x1="35" y1="55" x2="50" y2="55" stroke="#e8dfcc" stroke-width="2"/>
+  <line x1="35" y1="55" x2="50" y2="10" stroke="#e8dfcc" stroke-width="2"/>
+  <line x1="65" y1="55" x2="50" y2="55" stroke="#e8dfcc" stroke-width="2"/>
+  <line x1="65" y1="55" x2="50" y2="10" stroke="#e8dfcc" stroke-width="2"/>
+  <!-- Shadow on backrest -->
+  <polygon points="45,50 45,85 60,85 45,100" fill="none" stroke="#e8dfcc" stroke-width="1"/>
+  <!-- Shadow on seat -->
+  <polygon points="50,55 50,80 65,80 50,95" fill="none" stroke="#e8dfcc" stroke-width="1"/>
+  <!-- Shadow on legs -->
+  <polygon points="45,65 50,80 55,80 45,90" fill="none" stroke="#e8dfcc" stroke-width="1"/>
+
+  <!-- Wood texture hatching -->
+  <polyline points="35,15 40,25 45,35 50,45 55,55 60,65 65,75 70,85 75,95 80,105 85,115 90,125" 
+            fill="none" stroke="#e8dfcc" stroke-width="1" opacity="0.6"/>
+</g></svg>

@@ -1,0 +1,19 @@
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><g fill="#e8dfcc">
+  <defs>
+    <pattern id="woodcut-texture" x="0" y="0" width="10" height="10" patternUnits="userSpaceOnUse">
+      <rect width="10" height="10" fill="#e8dfcc" />
+      <rect width="10" height="10" fill="#e8dfcc" />
+      <rect width="10" height="10" fill="#e8dfcc" />
+      <rect width="10" height="10" fill="#e8dfcc" />
+    </pattern>
+  </defs>
+  
+  <!-- Main leg shape -->
+  <polygon points="50,10 80,20 85,40 60,55 50,70 35,60 20,50 50,30 75,40 70,60 55,75 40,80 25,70 50,40 30,50 20,60" fill="none" stroke="#e8dfcc" stroke-width="2" stroke-linejoin="round" />
+  
+  <!-- Shadow -->
+  <rect x="40" y="50" width="20" height="10" fill="#e8dfcc" />
+  
+  <!-- Hatching -->
+  <polygon points="50,10 80,20 85,40 60,55 50,70 35,60 20,50 50,30 75,40 70,60 55,75 40,80 25,70 50,40 30,50 20,60" fill="#e8dfcc" />
+</g></svg>

@@ -1,0 +1,32 @@
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><g fill="#e8dfcc">
+  <!-- Black outlines -->
+  <rect x="10" y="10" width="80" height="80" fill="none" stroke="#e8dfcc" stroke-width="2"/>
+  <rect x="20" y="30" width="60" height="60" fill="none" stroke="#e8dfcc" stroke-width="2"/>
+  <rect x="30" y="20" width="60" height="60" fill="none" stroke="#e8dfcc" stroke-width="2"/>
+  <rect x="40" y="40" width="60" height="60" fill="none" stroke="#e8dfcc" stroke-width="2"/>
+  <rect x="50" y="30" width="60" height="60" fill="none" stroke="#e8dfcc" stroke-width="2"/>
+  <rect x="60" y="20" width="60" height="60" fill="none" stroke="#e8dfcc" stroke-width="2"/>
+  <rect x="70" y="40" width="60" height="60" fill="none" stroke="#e8dfcc" stroke-width="2"/>
+  <rect x="80" y="30" width="60" height="60" fill="none" stroke="#e8dfcc" stroke-width="2"/>
+  <rect x="90" y="20" width="60" height="60" fill="none" stroke="#e8dfcc" stroke-width="2"/>
+  <rect x="100" y="40" width="60" height="60" fill="none" stroke="#e8dfcc" stroke-width="2"/>
+
+  <!-- Solid black blocks for shadows -->
+  <rect x="10" y="10" width="80" height="80" fill="#e8dfcc"/>
+  <rect x="20" y="30" width="60" height="60" fill="#e8dfcc"/>
+  <rect x="30" y="20" width="60" height="60" fill="#e8dfcc"/>
+  <rect x="40" y="40" width="60" height="60" fill="#e8dfcc"/>
+  <rect x="50" y="30" width="60" height="60" fill="#e8dfcc"/>
+  <rect x="60" y="20" width="60" height="60" fill="#e8dfcc"/>
+  <rect x="70" y="40" width="60" height="60" fill="#e8dfcc"/>
+  <rect x="80" y="30" width="60" height="60" fill="#e8dfcc"/>
+  <rect x="90" y="20" width="60" height="60" fill="#e8dfcc"/>
+  <rect x="100" y="40" width="60" height="60" fill="#e8dfcc"/>
+
+  <!-- Short parallel hatching lines for texture -->
+  <polygon points="10,10 25,10 25,35 10,35" fill="none" stroke="#e8dfcc" stroke-width="1"/>
+  <polygon points="10,10 25,10 25,35 10,35" fill="none" stroke="#e8dfcc" stroke-width="1"/>
+  <polygon points="10,10 25,10 25,35 10,35" fill="none" stroke="#e8dfcc" stroke-width="1"/>
+  <polygon points="10,10 25,10 25,35 10,35" fill="none" stroke="#e8dfcc" stroke-width="1"/>
+  <polygon points="10,10 25,10 25,35 10,35" fill="none" stroke="#e8dfcc" stroke-width="1"/>
+</g></svg>

@@ -1,0 +1,33 @@
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><g fill="#e8dfcc">
+  <!-- Background -->
+  <rect x="0" y="0" width="100" height="100" fill="none" stroke="#e8dfcc" stroke-width="2" />
+
+  <!-- Main body (long, narrow rectangle) -->
+  <rect x="20" y="30" width="60" height="50" fill="none" stroke="#e8dfcc" stroke-width="1.5" />
+
+  <!-- Head (top-right triangle) -->
+  <polygon points="80,30 80,20 70,20" fill="none" stroke="#e8dfcc" stroke-width="1.5" />
+
+  <!-- Neck (short vertical line) -->
+  <line x1="80" y1="20" x2="80" y2="50" stroke="#e8dfcc" stroke-width="1.5" />
+
+  <!-- Torso (long rectangle) -->
+  <rect x="20" y="50" width="60" height="40" fill="none" stroke="#e8dfcc" stroke-width="1.5" />
+
+  <!-- Hands (two short rectangles on sides) -->
+  <rect x="60" y="50" width="15" height="15" fill="none" stroke="#e8dfcc" stroke-width="1.5" />
+  <rect x="30" y="50" width="15" height="15" fill="none" stroke="#e8dfcc" stroke-width="1.5" />
+
+  <!-- Legs (two short rectangles on bottom) -->
+  <rect x="60" y="80" width="15" height="15" fill="none" stroke="#e8dfcc" stroke-width="1.5" />
+  <rect x="30" y="80" width="15" height="15" fill="none" stroke="#e8dfcc" stroke-width="1.5" />
+
+  <!-- Shadow (solid block) -->
+  <rect x="60" y="50" width="20" height="20" fill="#e8dfcc" />
+
+  <!-- Texture lines (short parallel hatching) -->
+  <polyline points="80,30 75,25 80,30" fill="none" stroke="#e8dfcc" stroke-width="0.5" />
+  <polyline points="80,30 75,25 80,30" fill="none" stroke="#e8dfcc" stroke-width="0.5" />
+  <polyline points="80,30 75,25 80,30" fill="none" stroke="#e8dfcc" stroke-width="0.5" />
+  <polyline points="80,30 75,25 80,30" fill="none" stroke="#e8dfcc" stroke-width="0.5" />
+</g></svg>

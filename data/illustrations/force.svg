@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><g fill="#e8dfcc">
+  <defs>
+    <pattern id="hatch" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#e8dfcc" stroke-width="2" stroke-dasharray="4,4"/>
+      <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#e8dfcc" stroke-width="2" stroke-dasharray="4,4"/>
+    </pattern>
+  </defs>
+  
+  <!-- Main Form -->
+  <polygon id="main" points="50,50 30,25 50,25 70,50 30,75 50,75 70,25 50,50" fill="none" stroke="#e8dfcc" stroke-width="2"/>
+  
+  <!-- Shadow 1 -->
+  <rect id="shadow1" x="25" y="25" width="50" height="50" fill="#e8dfcc" stroke="none"/>
+  
+  <!-- Shadow 2 -->
+  <rect id="shadow2" x="25" y="75" width="50" height="50" fill="#e8dfcc" stroke="none"/>
+  
+  <!-- Shadow 3 -->
+  <rect id="shadow3" x="25" y="25" width="50" height="50" fill="#e8dfcc" stroke="none"/>
+  
+  <!-- Texture Hatching -->
+  <path id="texture" d="M 25 50 L 75 50 L 25 50 L 75 50" fill="none" stroke="#e8dfcc" stroke-width="1.5" stroke-dasharray="4,4"/>
+  
+  <!-- Top Left Corner -->
+  <path id="corner1" d="M 50,50 L 25,25 L 25,25 L 50,50" fill="none" stroke="#e8dfcc" stroke-width="1.5"/>
+  
+  <!-- Bottom Right Corner -->
+  <path id="corner2" d="M 50,50 L 75,25 L 75,25 L 50,50" fill="none" stroke="#e8dfcc" stroke-width="1.5"/>
+  
+  <!-- Top Right Corner -->
+  <path id="corner3" d="M 50,50 L 75,75 L 75,75 L 50,50" fill="none" stroke="#e8dfcc" stroke-width="1.5"/>
+  
+  <!-- Bottom Left Corner -->
+  <path id="corner4" d="M 50,50 L 25,75 L 25,75 L 50,50" fill="none" stroke="#e8dfcc" stroke-width="1.5"/>
+  
+  <!-- Bottom Left Shadow -->
+  <rect id="shadow4" x="25" y="50" width="50" height="50" fill="#e8dfcc" stroke="none"/>
+  
+  <!-- Bottom Right Shadow -->
+  <rect id="shadow5" x="25" y="75" width="50" height="50" fill="#e8dfcc" stroke="none"/>
+  
+  <!-- Top Left Shadow -->
+  <rect id="shadow6" x="25" y="25" width="50" height="50" fill="#e8dfcc" stroke="none"/>
+  
+  <!-- Top Right Shadow -->
+  <rect id="shadow7" x="25" y="75" width="50" height="50" fill="#e8dfcc" stroke="none"/>
+  
+  <!-- Additional Texture Lines -->
+  <path id="texture2" d="M 25 55 L 75 55 L 25 55 L 75 55" fill="none" stroke="#e8dfcc" stroke-width="1" stroke-dasharray="4,4"/>
+  <path id="texture3" d="M 25 58 L 75 58 L 25 58 L 75 58" fill="none" stroke="#e8dfcc" stroke-width="1" stroke-dasharray="4,4"/>
+  <path id="texture4" d="M 25 62 L 75 62 L 25 62 L 75 62" fill="none" stroke="#e8dfcc" stroke-width="1" stroke-dasharray="4,4"/>
+</g></svg>
