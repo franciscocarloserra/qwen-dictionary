@@ -1,0 +1,34 @@
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><g fill="#e8dfcc">
+  <!-- Background -->
+  <rect x="20" y="20" width="60" height="60" fill="none" stroke="#e8dfcc" stroke-width="2" />
+  
+  <!-- Main body (carrying) -->
+  <rect x="35" y="35" width="30" height="40" fill="none" stroke="#e8dfcc" stroke-width="2" />
+  <rect x="40" y="35" width="20" height="40" fill="none" stroke="#e8dfcc" stroke-width="2" />
+  <rect x="35" y="35" width="30" height="30" fill="none" stroke="#e8dfcc" stroke-width="2" />
+  <rect x="40" y="35" width="20" height="30" fill="none" stroke="#e8dfcc" stroke-width="2" />
+  <rect x="35" y="35" width="30" height="20" fill="none" stroke="#e8dfcc" stroke-width="2" />
+  <rect x="40" y="35" width="20" height="20" fill="none" stroke="#e8dfcc" stroke-width="2" />
+  
+  <!-- Shadow (left) -->
+  <rect x="5" y="30" width="30" height="20" fill="none" stroke="#e8dfcc" stroke-width="2" />
+  <rect x="5" y="30" width="30" height="10" fill="none" stroke="#e8dfcc" stroke-width="2" />
+  
+  <!-- Shadow (right) -->
+  <rect x="70" y="30" width="30" height="20" fill="none" stroke="#e8dfcc" stroke-width="2" />
+  <rect x="70" y="30" width="30" height="10" fill="none" stroke="#e8dfcc" stroke-width="2" />
+  
+  <!-- Shadow (bottom) -->
+  <rect x="35" y="55" width="30" height="10" fill="none" stroke="#e8dfcc" stroke-width="2" />
+  <rect x="40" y="55" width="20" height="10" fill="none" stroke="#e8dfcc" stroke-width="2" />
+  
+  <!-- Shadow (top) -->
+  <rect x="35" y="20" width="30" height="10" fill="none" stroke="#e8dfcc" stroke-width="2" />
+  <rect x="40" y="20" width="20" height="10" fill="none" stroke="#e8dfcc" stroke-width="2" />
+  
+  <!-- Hatching lines (texture) -->
+  <line x1="35" y1="35" x2="35" y2="45" stroke="#e8dfcc" stroke-width="2" />
+  <line x1="40" y1="35" x2="40" y2="45" stroke="#e8dfcc" stroke-width="2" />
+  <line x1="35" y1="45" x2="35" y2="55" stroke="#e8dfcc" stroke-width="2" />
+  <line x1="40" y1="45" x2="40" y2="55" stroke="#e8dfcc" stroke-width="2" />
+</g></svg>

@@ -1,0 +1,45 @@
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><g fill="#e8dfcc">
+  <!-- Background texture (short parallel hatching) -->
+  <path d="M 0 0 L 0 100" stroke="#e8dfcc" stroke-width="1" fill="none" />
+  <path d="M 100 0 L 100 100" stroke="#e8dfcc" stroke-width="1" fill="none" />
+  <path d="M 0 100 L 100 100" stroke="#e8dfcc" stroke-width="1" fill="none" />
+  
+  <!-- Main wooden surface (engravings) -->
+  <rect x="20" y="40" width="60" height="60" rx="10" fill="none" stroke="#e8dfcc" stroke-width="2" />
+  
+  <!-- Vertical lines (engravings) -->
+  <line x1="20" y1="40" x2="20" y2="50" stroke="#e8dfcc" stroke-width="2" />
+  <line x1="20" y1="50" x2="20" y2="60" stroke="#e8dfcc" stroke-width="2" />
+  <line x1="20" y1="60" x2="20" y2="70" stroke="#e8dfcc" stroke-width="2" />
+  <line x1="20" y1="70" x2="20" y2="80" stroke="#e8dfcc" stroke-width="2" />
+  <line x1="20" y1="80" x2="20" y2="90" stroke="#e8dfcc" stroke-width="2" />
+  
+  <!-- Horizontal lines (engravings) -->
+  <line x1="20" y1="40" x2="98" y2="40" stroke="#e8dfcc" stroke-width="2" />
+  <line x1="20" y1="50" x2="98" y2="50" stroke="#e8dfcc" stroke-width="2" />
+  <line x1="20" y1="60" x2="98" y2="60" stroke="#e8dfcc" stroke-width="2" />
+  <line x1="20" y1="70" x2="98" y2="70" stroke="#e8dfcc" stroke-width="2" />
+  <line x1="20" y1="80" x2="98" y2="80" stroke="#e8dfcc" stroke-width="2" />
+  
+  <!-- Top horizontal strip (engravings) -->
+  <line x1="20" y1="40" x2="98" y2="40" stroke="#e8dfcc" stroke-width="2" />
+  <line x1="20" y1="50" x2="98" y2="50" stroke="#e8dfcc" stroke-width="2" />
+  <line x1="20" y1="60" x2="98" y2="60" stroke="#e8dfcc" stroke-width="2" />
+  <line x1="20" y1="70" x2="98" y2="70" stroke="#e8dfcc" stroke-width="2" />
+  <line x1="20" y1="80" x2="98" y2="80" stroke="#e8dfcc" stroke-width="2" />
+  
+  <!-- Shadow block 1 (lower left) -->
+  <rect x="40" y="20" width="20" height="20" fill="#e8dfcc" />
+  
+  <!-- Shadow block 2 (upper right) -->
+  <rect x="40" y="70" width="20" height="20" fill="#e8dfcc" />
+  
+  <!-- Shadow block 3 (center) -->
+  <rect x="30" y="30" width="20" height="20" fill="#e8dfcc" />
+  
+  <!-- Shadow block 4 (bottom right) -->
+  <rect x="60" y="20" width="20" height="20" fill="#e8dfcc" />
+  
+  <!-- Shadow block 5 (top left) -->
+  <rect x="20" y="40" width="20" height="20" fill="#e8dfcc" />
+</g></svg>

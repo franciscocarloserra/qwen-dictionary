@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><g fill="#e8dfcc">
+  <!-- Main apple body -->
+  <rect x="20" y="50" width="60" height="40" fill="none" stroke="#e8dfcc" stroke-width="2"/>
+  <rect x="20" y="50" width="60" height="40" fill="#e8dfcc"/>
+  
+  <!-- Top surface -->
+  <ellipse cx="35" cy="60" rx="25" ry="10" fill="none" stroke="#e8dfcc" stroke-width="2"/>
+  <circle cx="35" cy="60" r="10" fill="#e8dfcc"/>
+  
+  <!-- Side curves -->
+  <path d="M 20 50 L 35 40 L 20 50" fill="none" stroke="#e8dfcc" stroke-width="2"/>
+  <path d="M 35 40 L 65 40 L 35 50" fill="none" stroke="#e8dfcc" stroke-width="2"/>
+  <path d="M 65 40 L 65 50 L 35 50" fill="none" stroke="#e8dfcc" stroke-width="2"/>
+  
+  <!-- Bottom surface -->
+  <ellipse cx="35" cy="60" rx="25" ry="10" fill="none" stroke="#e8dfcc" stroke-width="2"/>
+  <circle cx="35" cy="60" r="10" fill="#e8dfcc"/>
+  
+  <!-- Side curves (reversed) -->
+  <path d="M 20 50 L 35 40 L 20 50" fill="none" stroke="#e8dfcc" stroke-width="2"/>
+  <path d="M 35 40 L 65 40 L 35 50" fill="none" stroke="#e8dfcc" stroke-width="2"/>
+  <path d="M 65 40 L 65 50 L 35 50" fill="none" stroke="#e8dfcc" stroke-width="2"/>
+  
+  <!-- Shadow 1 (top right) -->
+  <rect x="40" y="65" width="10" height="10" fill="#e8dfcc"/>
+  
+  <!-- Shadow 2 (bottom left) -->
+  <rect x="20" y="55" width="10" height="10" fill="#e8dfcc"/>
+  
+  <!-- Shadow 3 (top left) -->
+  <rect x="30" y="50" width="10" height="10" fill="#e8dfcc"/>
+  
+  <!-- Shadow 4 (bottom right) -->
+  <rect x="50" y="55" width="10" height="10" fill="#e8dfcc"/>
+  
+  <!-- Texture lines (parallel hatching) -->
+  <path d="M 22 50 L 28 50 L 22 50" fill="none" stroke="#e8dfcc" stroke-width="1" opacity="0.8"/>
+  <path d="M 38 50 L 42 50 L 38 50" fill="none" stroke="#e8dfcc" stroke-width="1" opacity="0.8"/>
+  <path d="M 22 55 L 28 55 L 22 55" fill="none" stroke="#e8dfcc" stroke-width="1" opacity="0.8"/>
+  <path d="M 38 55 L 42 55 L 38 55" fill="none" stroke="#e8dfcc" stroke-width="1" opacity="0.8"/>
+</g></svg>

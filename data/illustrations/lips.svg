@@ -1,0 +1,32 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><g fill="#e8dfcc">
+  <defs>
+    <pattern id="hatch" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#e8dfcc" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <!-- Main lips shape -->
+  <polygon points="35,35 50,20 65,40 40,55 25,70" fill="none" stroke="#e8dfcc" stroke-width="1"/>
+  <polygon points="35,35 50,20 65,40 40,55 25,70" fill="none" stroke="#e8dfcc" stroke-width="1"/>
+  <polygon points="35,35 50,20 65,40 40,55 25,70" fill="none" stroke="#e8dfcc" stroke-width="1"/>
+
+  <!-- Left lip detail -->
+  <polygon points="25,70 35,60 30,75" fill="none" stroke="#e8dfcc" stroke-width="1"/>
+  <polygon points="25,70 35,60 30,75" fill="none" stroke="#e8dfcc" stroke-width="1"/>
+
+  <!-- Right lip detail -->
+  <polygon points="40,55 50,60 55,65" fill="none" stroke="#e8dfcc" stroke-width="1"/>
+  <polygon points="40,55 50,60 55,65" fill="none" stroke="#e8dfcc" stroke-width="1"/>
+
+  <!-- Mouth area -->
+  <polygon points="35,35 50,20 65,40 40,55 25,70" fill="none" stroke="#e8dfcc" stroke-width="1"/>
+
+  <!-- Shadow left -->
+  <polygon points="30,75 35,70 40,65 35,70" fill="none" stroke="#e8dfcc" stroke-width="1"/>
+
+  <!-- Shadow right -->
+  <polygon points="55,65 60,70 65,65 55,65" fill="none" stroke="#e8dfcc" stroke-width="1"/>
+
+  <!-- Texture lines -->
+  <polyline points="35,55 25,70 35,60 45,70 35,55" fill="none" stroke="#e8dfcc" stroke-width="1" opacity="0.8"/>
+</g></svg>

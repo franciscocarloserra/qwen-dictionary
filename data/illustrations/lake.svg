@@ -1,0 +1,30 @@
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><g fill="#e8dfcc">
+  <!-- Background -->
+  <rect x="20" y="20" width="60" height="60" fill="none" stroke="#e8dfcc" stroke-width="1"/>
+
+  <!-- Main body (the lake) -->
+  <rect x="30" y="15" width="40" height="60" fill="none" stroke="#e8dfcc" stroke-width="1"/>
+  <rect x="45" y="15" width="45" height="40" fill="none" stroke="#e8dfcc" stroke-width="1"/>
+  <rect x="45" y="45" width="45" height="40" fill="none" stroke="#e8dfcc" stroke-width="1"/>
+  <rect x="30" y="45" width="40" height="40" fill="none" stroke="#e8dfcc" stroke-width="1"/>
+
+  <!-- Shadows (solid black blocks) -->
+  <rect x="10" y="30" width="30" height="20" fill="#e8dfcc" stroke="none"/>
+  <rect x="30" y="10" width="30" height="20" fill="#e8dfcc" stroke="none"/>
+  <rect x="60" y="10" width="30" height="20" fill="#e8dfcc" stroke="none"/>
+  <rect x="60" y="30" width="30" height="20" fill="#e8dfcc" stroke="none"/>
+
+  <!-- Texture (short parallel hatching) -->
+  <g stroke="#e8dfcc" stroke-width="1">
+    <line x1="35" y1="15" x2="35" y2="40" />
+    <line x1="35" y1="45" x2="35" y2="25" />
+    <line x1="45" y1="15" x2="45" y2="40" />
+    <line x1="45" y1="45" x2="45" y2="25" />
+  </g>
+
+  <!-- Visible details (small details for realism) -->
+  <circle cx="32" cy="18" r="2" fill="none" stroke="#e8dfcc" stroke-width="0.5"/>
+  <circle cx="42" cy="18" r="2" fill="none" stroke="#e8dfcc" stroke-width="0.5"/>
+  <circle cx="42" cy="42" r="2" fill="none" stroke="#e8dfcc" stroke-width="0.5"/>
+  <circle cx="32" cy="42" r="2" fill="none" stroke="#e8dfcc" stroke-width="0.5"/>
+</g></svg>

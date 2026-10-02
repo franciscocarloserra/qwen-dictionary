@@ -1,0 +1,57 @@
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><g fill="#e8dfcc">
+  <!-- Background -->
+  <rect x="0" y="0" width="100" height="100" fill="#16130f" />
+  
+  <!-- Woodcut texture: Hatching -->
+  <g fill="#c9a45c" opacity="0.8">
+    <line x1="0" y1="0" x2="100" y2="0" stroke-width="2" />
+    <line x1="0" y1="0" x2="0" y2="100" stroke-width="2" />
+    <line x1="100" y1="0" x2="100" y2="100" stroke-width="2" />
+    <line x1="100" y1="0" x2="0" y2="100" stroke-width="2" />
+    <line x1="0" y1="0" x2="100" y2="0" stroke-width="2" />
+  </g>
+  
+  <!-- Main body shape -->
+  <rect x="20" y="20" width="50" height="60" fill="#16130f" stroke="#e8dfcc" stroke-width="2" />
+  
+  <!-- Ear -->
+  <rect x="15" y="50" width="20" height="20" fill="#e8dfcc" />
+  
+  <!-- Eye -->
+  <rect x="40" y="45" width="15" height="15" fill="#e8dfcc" />
+  
+  <!-- Nose -->
+  <rect x="65" y="48" width="15" height="10" fill="#e8dfcc" />
+  
+  <!-- Mouth -->
+  <rect x="80" y="55" width="15" height="10" fill="#e8dfcc" />
+  
+  <!-- Mouth corners -->
+  <circle cx="85" cy="60" r="2" fill="#e8dfcc" />
+  <circle cx="85" cy="55" r="2" fill="#e8dfcc" />
+  
+  <!-- Chin -->
+  <rect x="95" y="60" width="15" height="5" fill="#e8dfcc" />
+  
+  <!-- Earlobe -->
+  <rect x="120" y="50" width="20" height="10" fill="#e8dfcc" />
+  
+  <!-- Forehead -->
+  <rect x="55" y="40" width="10" height="10" fill="#e8dfcc" />
+  
+  <!-- Hairline -->
+  <line x1="55" y1="30" x2="55" y2="40" stroke="#e8dfcc" stroke-width="1" />
+  
+  <!-- Lip details -->
+  <line x1="85" y1="58" x2="85" y2="65" stroke="#e8dfcc" stroke-width="1" />
+  <line x1="95" y1="62" x2="95" y2="65" stroke="#e8dfcc" stroke-width="1" />
+  
+  <!-- Shadow -->
+  <rect x="45" y="55" width="10" height="15" fill="#e8dfcc" />
+  
+  <!-- Shadow 2 -->
+  <rect x="50" y="70" width="10" height="15" fill="#e8dfcc" />
+  
+  <!-- Shadow 3 -->
+  <rect x="45" y="85" width="10" height="15" fill="#e8dfcc" />
+</g></svg>

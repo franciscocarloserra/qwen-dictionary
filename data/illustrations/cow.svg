@@ -1,0 +1,64 @@
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><g fill="#e8dfcc">
+  <!-- Background -->
+  <rect x="5" y="5" width="90" height="90" fill="none" stroke="#e8dfcc" stroke-width="2" />
+  
+  <!-- Main body shape -->
+  <polygon points="50,5 90,5 90,90 50,90 50,5" fill="none" stroke="#e8dfcc" stroke-width="2" />
+  
+  <!-- Head -->
+  <rect x="25" y="15" width="50" height="40" fill="none" stroke="#e8dfcc" stroke-width="2" />
+  
+  <!-- Ears -->
+  <rect x="20" y="25" width="10" height="20" fill="none" stroke="#e8dfcc" stroke-width="2" />
+  <rect x="80" y="25" width="10" height="20" fill="none" stroke="#e8dfcc" stroke-width="2" />
+  
+  <!-- Nose -->
+  <rect x="45" y="35" width="10" height="10" fill="none" stroke="#e8dfcc" stroke-width="2" />
+  
+  <!-- Muzzle -->
+  <rect x="50" y="45" width="5" height="10" fill="none" stroke="#e8dfcc" stroke-width="2" />
+  
+  <!-- Snout -->
+  <rect x="40" y="50" width="20" height="5" fill="none" stroke="#e8dfcc" stroke-width="2" />
+  
+  <!-- Eyes -->
+  <circle cx="45" cy="45" r="5" fill="none" stroke="#e8dfcc" stroke-width="2" />
+  <circle cx="55" cy="45" r="5" fill="none" stroke="#e8dfcc" stroke-width="2" />
+  
+  <!-- Snout mouth (opening) -->
+  <path d="M 40 50 L 55 50 L 55 65 L 40 65" fill="none" stroke="#e8dfcc" stroke-width="2" />
+  
+  <!-- Mouth -->
+  <path d="M 40 50 L 55 65" fill="none" stroke="#e8dfcc" stroke-width="2" />
+  
+  <!-- Neck -->
+  <rect x="25" y="75" width="50" height="15" fill="none" stroke="#e8dfcc" stroke-width="2" />
+  
+  <!-- Back of neck -->
+  <rect x="25" y="85" width="50" height="5" fill="none" stroke="#e8dfcc" stroke-width="2" />
+  
+  <!-- Back of head -->
+  <rect x="25" y="90" width="50" height="5" fill="none" stroke="#e8dfcc" stroke-width="2" />
+  
+  <!-- Head markings -->
+  <circle cx="45" cy="55" r="5" fill="none" stroke="#e8dfcc" stroke-width="2" />
+  <circle cx="55" cy="55" r="5" fill="none" stroke="#e8dfcc" stroke-width="2" />
+  
+  <!-- Shadow on head -->
+  <rect x="35" y="55" width="30" height="15" fill="none" stroke="#e8dfcc" stroke-width="2" />
+  
+  <!-- Shadow on body -->
+  <rect x="35" y="75" width="30" height="15" fill="none" stroke="#e8dfcc" stroke-width="2" />
+  
+  <!-- Shadow on head -->
+  <rect x="35" y="90" width="30" height="15" fill="none" stroke="#e8dfcc" stroke-width="2" />
+  
+  <!-- Shadow on neck -->
+  <rect x="35" y="85" width="30" height="5" fill="none" stroke="#e8dfcc" stroke-width="2" />
+  
+  <!-- Shadow on body -->
+  <rect x="35" y="75" width="30" height="15" fill="none" stroke="#e8dfcc" stroke-width="2" />
+  
+  <!-- Texture lines -->
+  <polyline points="50,5 50,90 90,90 90,5 50,5" fill="none" stroke="#e8dfcc" stroke-width="2" />
+</g></svg>

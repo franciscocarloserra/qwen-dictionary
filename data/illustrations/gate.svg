@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><g fill="#e8dfcc">
+  <defs>
+    <pattern id="texture" x="0" y="0" width="10" height="10" patternUnits="userSpaceOnUse">
+      <line x1="0" y1="0" x2="10" y2="10" stroke="#e8dfcc" stroke-width="1"/>
+      <line x1="0" y1="10" x2="10" y2="0" stroke="#e8dfcc" stroke-width="1"/>
+      <line x1="10" y1="0" x2="0" y2="10" stroke="#e8dfcc" stroke-width="1"/>
+      <line x1="10" y1="10" x2="0" y2="0" stroke="#e8dfcc" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <!-- Main Gate Form -->
+  <rect x="5" y="5" width="90" height="90" fill="none" stroke="#e8dfcc" stroke-width="1"/>
+  <!-- Decorative corner -->
+  <circle cx="35" cy="35" r="10" fill="#e8dfcc" opacity="0.6"/>
+  <circle cx="65" cy="65" r="10" fill="#e8dfcc" opacity="0.6"/>
+  <!-- Center detail -->
+  <circle cx="50" cy="50" r="15" fill="#e8dfcc"/>
+  <!-- Top corners -->
+  <circle cx="30" cy="50" r="8" fill="#e8dfcc"/>
+  <circle cx="70" cy="50" r="8" fill="#e8dfcc"/>
+  <!-- Bottom corners -->
+  <circle cx="30" cy="70" r="8" fill="#e8dfcc"/>
+  <circle cx="70" cy="70" r="8" fill="#e8dfcc"/>
+  <!-- Center detail (smaller) -->
+  <circle cx="45" cy="45" r="12" fill="#e8dfcc"/>
+  <!-- Shadow block 1 -->
+  <rect x="40" y="30" width="20" height="10" fill="#e8dfcc"/>
+  <!-- Shadow block 2 -->
+  <rect x="35" y="40" width="20" height="10" fill="#e8dfcc"/>
+  <!-- Shadow block 3 -->
+  <rect x="35" y="50" width="20" height="10" fill="#e8dfcc"/>
+  <!-- Texture hatching lines -->
+  <line x1="20" y1="30" x2="70" y2="30" stroke="#e8dfcc" stroke-width="0.8"/>
+  <line x1="20" y1="40" x2="70" y2="40" stroke="#e8dfcc" stroke-width="0.8"/>
+  <line x1="20" y1="50" x2="70" y2="50" stroke="#e8dfcc" stroke-width="0.8"/>
+  <line x1="20" y1="60" x2="70" y2="60" stroke="#e8dfcc" stroke-width="0.8"/>
+</g></svg>

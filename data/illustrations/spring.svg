@@ -1,0 +1,40 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><g fill="#e8dfcc">
+  <!-- Background -->
+  <rect x="0" y="0" width="100" height="100" fill="none" />
+  
+  <!-- Main body (rounded rectangle) -->
+  <rect x="30" y="30" width="40" height="40" fill="none" stroke="#e8dfcc" stroke-width="2" />
+  
+  <!-- Top curve -->
+  <path d="M 35 35 Q 40 30 45 35" fill="none" stroke="#e8dfcc" stroke-width="2" />
+  
+  <!-- Left curve -->
+  <path d="M 35 45 Q 30 40 25 45" fill="none" stroke="#e8dfcc" stroke-width="2" />
+  
+  <!-- Right curve -->
+  <path d="M 35 55 Q 40 60 45 55" fill="none" stroke="#e8dfcc" stroke-width="2" />
+  
+  <!-- Bottom curve -->
+  <path d="M 35 50 Q 40 45 45 50" fill="none" stroke="#e8dfcc" stroke-width="2" />
+  
+  <!-- Inner shadow block -->
+  <rect x="20" y="25" width="20" height="20" fill="none" stroke="#e8dfcc" stroke-width="1" />
+  
+  <!-- Shadow block (right) -->
+  <rect x="50" y="25" width="20" height="20" fill="none" stroke="#e8dfcc" stroke-width="1" />
+  
+  <!-- Shadow block (left) -->
+  <rect x="10" y="25" width="20" height="20" fill="none" stroke="#e8dfcc" stroke-width="1" />
+  
+  <!-- Top hatching -->
+  <path d="M 30 30 L 30 35 L 35 35" fill="none" stroke="#e8dfcc" stroke-width="1" opacity="0.8" />
+  
+  <!-- Bottom hatching -->
+  <path d="M 30 50 L 30 55 L 35 55" fill="none" stroke="#e8dfcc" stroke-width="1" opacity="0.8" />
+  
+  <!-- Top hatching -->
+  <path d="M 30 35 L 30 40 L 35 40" fill="none" stroke="#e8dfcc" stroke-width="1" opacity="0.8" />
+  
+  <!-- Bottom hatching -->
+  <path d="M 30 55 L 30 60 L 35 60" fill="none" stroke="#e8dfcc" stroke-width="1" opacity="0.8" />
+</g></svg>

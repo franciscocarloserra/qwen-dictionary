@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="200" height="200"><g fill="#e8dfcc">
+  <!-- Background -->
+  <rect x="5" y="5" width="90" height="90" fill="#16130f" stroke="#c9a45c" stroke-width="2"/>
+  
+  <!-- Main Forest Shape -->
+  <path d="M 5 10 C 15 10, 30 20, 50 25 C 70 25, 90 15, 95 10 C 95 5, 80 10, 70 15 C 60 20, 40 10, 20 10 C 5 10, 5 10, 5 10" fill="none" stroke="#e8dfcc" stroke-width="3"/>
+  
+  <!-- Tree Trunk -->
+  <rect x="35" y="25" width="30" height="15" fill="#e8dfcc"/>
+  
+  <!-- Leaves -->
+  <path d="M 45 15 C 60 15, 75 30, 80 45 C 85 60, 70 75, 55 75 C 40 75, 25 60, 20 45 C 25 30, 40 15, 55 15" fill="#e8dfcc"/>
+  
+  <path d="M 45 15 C 60 15, 75 30, 80 45 C 85 60, 70 75, 55 75 C 40 75, 25 60, 20 45 C 25 30, 40 15, 55 15" fill="#e8dfcc"/>
+  
+  <!-- Shadow -->
+  <rect x="15" y="35" width="70" height="10" fill="#e8dfcc"/>
+  
+  <!-- Hatching -->
+  <path d="M 20 35 M 40 35 M 60 35" fill="none" stroke="#e8dfcc" stroke-width="1"/>
+  
+  <!-- Leaf Detail -->
+  <path d="M 45 15 C 60 15, 75 30, 80 45 C 85 60, 70 75, 55 75 C 40 75, 25 60, 20 45 C 25 30, 40 15, 55 15" fill="#e8dfcc"/>
+  
+  <!-- Leaf Detail -->
+  <path d="M 45 15 C 60 15, 75 30, 80 45 C 85 60, 70 75, 55 75 C 40 75, 25 60, 20 45 C 25 30, 40 15, 55 15" fill="#e8dfcc"/>
+  
+  <!-- Leaf Detail -->
+  <path d="M 45 15 C 60 15, 75 30, 80 45 C 85 60, 70 75, 55 75 C 40 75, 25 60, 20 45 C 25 30, 40 15, 55 15" fill="#e8dfcc"/>
+</g></svg>

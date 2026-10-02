@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><g fill="#e8dfcc">
+  <defs>
+    <pattern id="hatch" width="10" height="10" patternUnits="userSpaceOnUse" x="0" y="0">
+      <rect x="0" y="0" width="10" height="10" fill="none" stroke="#e8dfcc" stroke-width="0.5"/>
+    </pattern>
+  </defs>
+  
+  <!-- Main Form -->
+  <polygon fill="none" stroke="#e8dfcc" stroke-width="2" points="50,10 50,90 5,90 5,10"/>
+  
+  <!-- Shadow -->
+  <polygon fill="none" stroke="#e8dfcc" stroke-width="1" points="50,50 80,50 40,50"/>
+  
+  <!-- Hatching -->
+  <path fill="none" stroke="#e8dfcc" stroke-width="0.5" pattern="url(#hatch)" opacity="0.6"/>
+  
+  <!-- Shadow -->
+  <polygon fill="none" stroke="#e8dfcc" stroke-width="1" points="50,50 80,50 40,50"/>
+  
+  <!-- Shadow -->
+  <polygon fill="none" stroke="#e8dfcc" stroke-width="1" points="50,50 80,50 40,50"/>
+  
+  <!-- Shadow -->
+  <polygon fill="none" stroke="#e8dfcc" stroke-width="1" points="50,50 80,50 40,50"/>
+</g></svg>

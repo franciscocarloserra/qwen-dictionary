@@ -1,0 +1,54 @@
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><g fill="#e8dfcc">
+  <!-- Background -->
+  <rect x="0" y="0" width="100" height="100" fill="none" stroke="#e8dfcc" stroke-width="2" />
+  
+  <!-- Main form -->
+  <rect x="20" y="20" width="60" height="60" fill="none" stroke="#e8dfcc" stroke-width="2" />
+  
+  <!-- Top border -->
+  <line x1="20" y1="20" x2="20" y2="60" stroke="#e8dfcc" stroke-width="2" />
+  <line x1="60" y1="20" x2="60" y2="60" stroke="#e8dfcc" stroke-width="2" />
+  
+  <!-- Side borders -->
+  <line x1="20" y1="20" x2="20" y2="60" stroke="#e8dfcc" stroke-width="2" />
+  <line x1="60" y1="20" x2="60" y2="60" stroke="#e8dfcc" stroke-width="2" />
+  
+  <!-- Bottom border -->
+  <line x1="20" y1="60" x2="20" y2="100" stroke="#e8dfcc" stroke-width="2" />
+  <line x1="60" y1="60" x2="60" y2="100" stroke="#e8dfcc" stroke-width="2" />
+  
+  <!-- Top shadow -->
+  <path d="M 20 60 Q 40 70 60 60" fill="#e8dfcc" stroke="none" />
+  
+  <!-- Left shadow -->
+  <path d="M 20 60 Q 30 70 40 60" fill="#e8dfcc" stroke="none" />
+  
+  <!-- Right shadow -->
+  <path d="M 60 60 Q 80 70 90 60" fill="#e8dfcc" stroke="none" />
+  
+  <!-- Bottom shadow -->
+  <path d="M 20 100 Q 30 110 40 100" fill="#e8dfcc" stroke="none" />
+  
+  <!-- Top shadow -->
+  <path d="M 60 100 Q 80 110 90 100" fill="#e8dfcc" stroke="none" />
+  
+  <!-- Top texture (hatching) -->
+  <polygon points="20,40 30,50 40,60" fill="none" stroke="#e8dfcc" stroke-width="1" />
+  <polygon points="40,40 50,50 60,60" fill="none" stroke="#e8dfcc" stroke-width="1" />
+  
+  <!-- Left texture (hatching) -->
+  <polygon points="20,40 30,50 40,60" fill="none" stroke="#e8dfcc" stroke-width="1" />
+  <polygon points="30,40 40,50 50,60" fill="none" stroke="#e8dfcc" stroke-width="1" />
+  
+  <!-- Right texture (hatching) -->
+  <polygon points="60,40 70,50 80,60" fill="none" stroke="#e8dfcc" stroke-width="1" />
+  <polygon points="70,40 80,50 90,60" fill="none" stroke="#e8dfcc" stroke-width="1" />
+  
+  <!-- Bottom texture (hatching) -->
+  <polygon points="20,100 30,110 40,100" fill="none" stroke="#e8dfcc" stroke-width="1" />
+  <polygon points="30,100 40,110 50,100" fill="none" stroke="#e8dfcc" stroke-width="1" />
+  
+  <!-- Right texture (hatching) -->
+  <polygon points="60,100 70,110 80,100" fill="none" stroke="#e8dfcc" stroke-width="1" />
+  <polygon points="70,100 80,110 90,100" fill="none" stroke="#e8dfcc" stroke-width="1" />
+</g></svg>

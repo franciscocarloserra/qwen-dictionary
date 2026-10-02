@@ -1,0 +1,23 @@
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><g fill="#e8dfcc">
+  <!-- Background -->
+  <rect x="0" y="0" width="100" height="100" fill="none" stroke="#e8dfcc" stroke-width="1"/>
+  
+  <!-- Shadow -->
+  <rect x="30" y="30" width="40" height="40" fill="#e8dfcc" stroke="none"/>
+  
+  <!-- Roof -->
+  <!-- Main form -->
+  <polygon points="20,10 40,20 60,30 70,20 80,40 90,50 80,60 60,70 40,60 20,50" fill="none" stroke="#e8dfcc" stroke-width="1"/>
+  
+  <!-- Roof details -->
+  <polygon points="20,10 40,20 60,30 70,20 80,40 90,50 80,60 60,70 40,60 20,50" fill="none" stroke="#e8dfcc" stroke-width="1"/>
+  
+  <!-- Roof lines -->
+  <polygon points="10,20 20,10 30,10 40,20 50,20 60,30 70,20 80,40 90,50 80,60 60,70 40,60 20,50" fill="none" stroke="#e8dfcc" stroke-width="1"/>
+  
+  <!-- Shadow details -->
+  <rect x="30" y="30" width="40" height="40" fill="#e8dfcc" stroke="none"/>
+  
+  <!-- Roof texture -->
+  <polyline points="40,20 45,25 50,20 55,25 60,20 65,25 70,20 75,25 80,20 85,25 90,20 95,25" fill="none" stroke="#e8dfcc" stroke-width="1"/>
+</g></svg>
